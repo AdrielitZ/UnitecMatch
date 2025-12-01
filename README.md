@@ -55,3 +55,20 @@ Las dependencias específicas (Compose, Material, AndroidX, etc.) se encuentran 
 ```bash
 git clone https://github.com/AdrielitZ/UnitecMatch.git
 cd UnitecMatch
+
+UnitecMatch/
+ ├─ app/
+ │   ├─ src/
+ │   │   ├─ main/
+ │   │   │   ├─ java/com/example/unitec_match/
+ │   │   │   │   ├─ data/         # Modelos de datos y lista de perfiles de ejemplo
+ │   │   │   │   ├─ ui/           # Pantallas y componentes de interfaz con Compose
+ │   │   │   │   ├─ navigation/   # (Si aplica) manejo de rutas y navegación
+ │   │   │   │   └─ ...           
+ │   │   │   └─ res/              # Recursos gráficos y de texto
+ │   │   └─ ...
+ │   └─ build.gradle(.kts)
+ ├─ build.gradle(.kts)
+ ├─ settings.gradle(.kts)
+ └─ ...
+
