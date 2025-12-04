@@ -3,13 +3,13 @@
 ## Datos de la universidad y del equipo
 
 - **Universidad:** Universidad Tecnológica de México (UNITEC)
-- **Campus:** [Campus]
+- **Campus:** [Sur]
 - **Carrera:** Ingeniería en Sistemas Computacionales
-- **Materia:** Aplicaciones Móviles con Jetpack Compose
-- **Profesor(a):** [Nombre del/la profesor(a)]
-- **Alumno(s):** [Nombre completo del/de los integrante(s)]
-- **Cuatrimestre / Grupo:** [7.º cuatrimestre / Grupo X]
-- **Fecha:** [DD/MM/AAAA]
+- **Materia:** Aplicaciones Móviles
+- **Profesor(a):** [Juan Luis Carrillo Garcia]
+- **Alumno(s):** [Joel Adriel Pérez Campos/Jesús Daniel Macias Matus]
+- **Cuatrimestre / Grupo:** [10.º cuatrimestre]
+- **Fecha:** [04/12/2004]
 
 ---
 
